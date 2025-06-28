@@ -81,12 +81,6 @@
   - `networkx`
   - `matplotlib`
 
-**インストール例：**
-```bash
-pip install pandas numpy networkx matplotlib
-```
-
----
 
 ## 実行方法
 
@@ -119,8 +113,9 @@ MITライセンスのもとで公開しています。
 
 ## 作者
 
-Shinkuro Takenaka (2021)
+Takenaka Shinkuro (2021) 本ツールは次の論文の解析の一部として開発されました。
 
+Shinkuro Takenaka, Takeshi Kawashima, Masanori Arita, A sugar utilization phenotype contributes to the formation of genetic exchange communities in lactic acid bacteria, FEMS Microbiology Letters, Volume 368, Issue 17, September 2021, fnab117, https://doi.org/10.1093/femsle/fnab117
 ---
 
 ## 今後の改善案（任意）
