@@ -44,8 +44,7 @@
 - `sharing_ortholog_number_more_than;X_generalist_specialist_others.tsv`
 - `sharing_ortholog_number_more_than;X_strain_table_plus_colorcode.tsv`
 - `network image`
-!(https://github.com/TakenakaShinkuro/Create-gene-sharing-Network-of-bacterial-genome/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-06-28%20135958.png)
----
+![Image](https://github.com/user-attachments/assets/7ed34832-1a9b-45ec-b4c5-5c099376a39a)---
 
 ### 2. `20210408_community_extraction.py`
 
